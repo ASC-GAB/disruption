@@ -1,0 +1,69 @@
+{
+    "body": [
+        {
+            "ItemInternalId": "4",
+            "Sites": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 0,
+                "Value": "Philippines"
+            },
+            "Disruptions": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 0,
+                "Value": "Super Typhoon"
+            }
+        },
+        {
+            "ItemInternalId": "5",
+            "Sites": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 1,
+                "Value": "Kenya"
+            },
+            "Disruptions": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 3,
+                "Value": "Civil Unrest"
+            }
+        },
+        {
+            "ItemInternalId": "6",
+            "Sites": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 0,
+                "Value": "Philippines"
+            },
+            "Disruptions": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 1,
+                "Value": "Flooding"
+            }
+        },
+        {
+            "ItemInternalId": "7",
+            "Sites": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 2,
+                "Value": "USA"
+            },
+            "Disruptions": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 2,
+                "Value": "Tornado"
+            }
+        },
+        {
+            "ItemInternalId": "8",
+            "Sites": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 2,
+                "Value": "USA"
+            },
+            "Disruptions": {
+                "@odata.type": "#Microsoft.Azure.Connectors.SharePoint.SPListExpandedReference",
+                "Id": 1,
+                "Value": "Flooding"
+            }
+        }
+    ]
+}
